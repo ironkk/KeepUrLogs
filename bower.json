@@ -1,0 +1,22 @@
+{
+  "name": "logcentral",
+  "description": "keeps tour log in one place",
+  "main": "",
+  "authors": [
+    "Jesus Ortega <jesus@dustycode.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dustycodecorp/logcentral",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-switch": "^3.3.2"
+  }
+}
